@@ -1,2 +1,1 @@
-# SQL
-All basics related structured query language like notes, problems
+<h1>Oracle SQL Syllabus req. for Oracle EBS</h1>
